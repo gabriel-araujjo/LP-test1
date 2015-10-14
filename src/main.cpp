@@ -1,7 +1,7 @@
 //============================================================================
 // Prova 1 de Linguagem de prorgamação, Prof. Bel
 //
-// A questão 1 está nos arquivos search.h e search.cpp
+// A questão 1 está nos arquivos search.h
 // A questão 2 está nos arquivos max.h e max.cpp
 // A questão 3 está nos arquivos duplicate_element.h e duplicate_element.cpp
 // A questão 4 está nos arquivos poll.h e poll.cpp
